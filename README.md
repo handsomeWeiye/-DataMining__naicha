@@ -1,6 +1,1 @@
-# 实时动态数据监控，使用了datav进行建构 
-
-# 数据挖掘--Excel 一点点奶茶数据分析
-
-Excel是日常使用中，强有力的工具
-通过Excel可
+# 使用datav构建的数据可视化工具 yidiandian.weiye.site
