@@ -1,5 +1,6 @@
 # 使用datav构建的数据可视化工具 
-[一点点奶茶](yidiandian.weiye.site)
+[一点点奶茶](http://yidiandian.weiye.site)
+
 # 数据挖掘--Excel 一点点奶茶数据分析
 
 Excel是日常使用中，强有力的工具
